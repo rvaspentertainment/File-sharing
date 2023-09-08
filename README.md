@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://graph.org/file/43fcca8ee2829dfa4436b.jpg" alt="Ben-filter-Bot Logo">
+  <img src="https://telegra.ph/file/bac95dc890b387969e6e5.jpg" alt="Ben-filter-Bot Logo">
 </p>
 <h1 align="center">
-   TG-UPDATES1-BOT
+   𝐒𝐇 𝐅𝐈𝐋𝐄 𝐒𝐓𝐎𝐑𝐄-𝐁𝐎𝐓
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+TG-UPDATES1-Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐒𝐇-𝐅𝐈𝐋𝐄-𝐒𝐓𝐎𝐑𝐄-𝐁𝐎𝐓!)
 </p>
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@KUSHAL HK ](https://www.telegram.dog/KUSHALHK)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@Yuva_raj777](https://www.telegram.dog/Yuva_raj777)**
 
 ### Features
 - Fully customisable.
